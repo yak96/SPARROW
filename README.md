@@ -44,8 +44,10 @@
 
 👽 cd $HOME/SPARROW
 
-👽 python run.py
+👽 python SPARROW.py
 ![20220623_014711](https://user-images.githubusercontent.com/20098740/175127781-84587bc1-0d6b-44e7-b3bf-cb7c0fa989ff.jpg)
 ![20220623_014753](https://user-images.githubusercontent.com/20098740/175127948-3c149baf-e9d7-4960-aa52-64ba6de0fd5c.jpg)
 
-THIS TOOLS FREE FOR EVERYONE " CHEERS ' ENJOY
+THIS TOOLS FREE FOR EVERYONE " 
+
+CHEERS ' ENJOY!! 
